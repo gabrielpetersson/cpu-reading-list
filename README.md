@@ -2,7 +2,8 @@
 
 my reading list
 
-Great start: Youtube Playlist - How do computers work: https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq
+### Great start
+Youtube Playlist - How do computers work: https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq
 
 ### Assembling a computer from scratch
 Youtube Playlist - Build a 65c02-based computer from scratch: https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH
